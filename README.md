@@ -2,9 +2,9 @@
 Team Name: Group 1
 
 Group Members:
-1. Connor Hatfield [@connorhat4](url)
+1. Michael Espinoza [@Michael8272](url)
 2. Jordan Peterkin [@jpeterkin29](url)
-3. Michael Espinoza [@Michael8272](url)
+3. Connor Hatfield [@connorhat4](url)
 4. Naysa Rokkala [@naysarokk](url)
 
 # Problem Description:
